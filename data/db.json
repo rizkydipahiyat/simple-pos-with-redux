@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Xiaomi 12T 5G",
+      "desc": "Ultra steady 108MP with OIS | Dimensity",
+      "image": "https://i01.appmifile.com/webfile/globalimg/chenshuyu/Xiaomi12T-sku!800x800!85.png",
+      "price": "6299000"
+    },
+    {
+      "id": 2,
+      "title": "Xiaomi 12",
+      "desc": "50MP Pro-grade camera | Snapdragon® 8 Gen 1",
+      "image": "https://i01.appmifile.com/webfile/globalimg/id/cms/E7F6E977-AEE6-BACE-29FD-EF152669786F!800x800!85.jpg",
+      "price": "6999000"
+    },
+    {
+      "id": 3,
+      "title": "Xiaomi 12 Pro",
+      "desc": "Pro-grade triple 50MP camera | Snapdragon® 8 Gen 1",
+      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1649317359.19278741.png",
+      "price": "12999000"
+    },
+    {
+      "id": 4,
+      "title": "Redmi Note 12",
+      "desc": "50MP triple kamera | Layar AMOLED 120Hz",
+      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1680080880.69461767!800x800!85.png",
+      "price": "2099000"
+    },
+    {
+      "id": 5,
+      "title": "Redmi Note 12 Pro 5G",
+      "desc": "Kamrea flagship SONY IMX766 dengan OIS",
+      "image": "https://i02.appmifile.com/444_item_id/30/05/2023/933290e2ad4936062fe10c2dd16d8f41!800x800!85.png",
+      "price": "4399000"
+    }
+  ]
+}
